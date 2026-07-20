@@ -19,7 +19,7 @@ const ASSETS_TO_CACHE = [
   '/icon-512.png',
   '/banner.png',
   // তোমার CSS এবং JS ফাইলগুলো এখানে দেবে
-  // '/style.css', 
+  '/style.css', 
   // '/script.js'
 ];
 
